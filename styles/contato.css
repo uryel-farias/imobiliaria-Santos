@@ -1,0 +1,36 @@
+.contato {
+        background-color: #1d80c1;
+}
+
+.contato-subtitulo {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+    margin-bottom: 15px;
+}
+
+.contato-paragrafo {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.contato-lista {
+    margin: 40px auto;
+    width: 250px;
+    list-style: none;   
+}
+
+.contato-lista li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.contato-lista li a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
