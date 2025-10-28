@@ -1,0 +1,21 @@
+.header {
+    background-color: #afddfb;
+}
+
+.header-img {
+    width: 150px;
+}
+
+.header-paragrafo {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.header-paragrafo a {
+    font-size:  18px;
+    color: #1d1d1d;
+    border-bottom:  solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}

@@ -1,0 +1,18 @@
+.apresentacao {
+
+}
+
+.apresentacao-titulo {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.apresentacao-subtitulo {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.apresentacao img {
+    width: 450px; 
+}

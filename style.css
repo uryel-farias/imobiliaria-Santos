@@ -8,5 +8,26 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header, .banner, .apresentacao, .servicos, .corretores, .contato {
+    padding: 30px 0;
+    text-align: center;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.texto-azul {
+    color: #1c81c0;
 }
