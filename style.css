@@ -1,0 +1,12 @@
+@import url(/styles/header.css);
+@import url(/styles/banner.css);
+@import url(/styles/apresentacao.css);
+@import url(/styles/servicos.css);
+@import url(/styles/corretores.css);
+@import url(/styles/contato.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
